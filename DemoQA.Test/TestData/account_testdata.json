@@ -1,0 +1,15 @@
+{
+  "validUser": {
+    "userName": "chichuong",
+    "password": "Chuong@191",
+    "userId": "b40cd682-f858-4915-94fd-61f7aef37b01"
+  },
+  "userWithMissingPassword": {
+    "userName": "testuser",
+    "password": ""
+  },
+  "userWithIncorrectPassword": {
+    "userName": "your_actual_demoqa_username",
+    "password": "IncorrectPassword123!"
+  }
+}

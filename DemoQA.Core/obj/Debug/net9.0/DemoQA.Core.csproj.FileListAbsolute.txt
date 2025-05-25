@@ -1,0 +1,12 @@
+D:\học test\demo\DemoQA.APITesting\DemoQA.Core\bin\Debug\net9.0\DemoQA.Core.deps.json
+D:\học test\demo\DemoQA.APITesting\DemoQA.Core\bin\Debug\net9.0\DemoQA.Core.dll
+D:\học test\demo\DemoQA.APITesting\DemoQA.Core\bin\Debug\net9.0\DemoQA.Core.pdb
+D:\học test\demo\DemoQA.APITesting\DemoQA.Core\obj\Debug\net9.0\DemoQA.Core.csproj.AssemblyReference.cache
+D:\học test\demo\DemoQA.APITesting\DemoQA.Core\obj\Debug\net9.0\DemoQA.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\học test\demo\DemoQA.APITesting\DemoQA.Core\obj\Debug\net9.0\DemoQA.Core.AssemblyInfoInputs.cache
+D:\học test\demo\DemoQA.APITesting\DemoQA.Core\obj\Debug\net9.0\DemoQA.Core.AssemblyInfo.cs
+D:\học test\demo\DemoQA.APITesting\DemoQA.Core\obj\Debug\net9.0\DemoQA.Core.csproj.CoreCompileInputs.cache
+D:\học test\demo\DemoQA.APITesting\DemoQA.Core\obj\Debug\net9.0\DemoQA.Core.dll
+D:\học test\demo\DemoQA.APITesting\DemoQA.Core\obj\Debug\net9.0\refint\DemoQA.Core.dll
+D:\học test\demo\DemoQA.APITesting\DemoQA.Core\obj\Debug\net9.0\DemoQA.Core.pdb
+D:\học test\demo\DemoQA.APITesting\DemoQA.Core\obj\Debug\net9.0\ref\DemoQA.Core.dll

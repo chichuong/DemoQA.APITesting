@@ -1,0 +1,15 @@
+D:\học test\demo\DemoQA.APITesting\DemoQA.Service\bin\Debug\net9.0\DemoQA.Service.deps.json
+D:\học test\demo\DemoQA.APITesting\DemoQA.Service\bin\Debug\net9.0\DemoQA.Service.dll
+D:\học test\demo\DemoQA.APITesting\DemoQA.Service\bin\Debug\net9.0\DemoQA.Service.pdb
+D:\học test\demo\DemoQA.APITesting\DemoQA.Service\bin\Debug\net9.0\DemoQA.Core.dll
+D:\học test\demo\DemoQA.APITesting\DemoQA.Service\bin\Debug\net9.0\DemoQA.Core.pdb
+D:\học test\demo\DemoQA.APITesting\DemoQA.Service\obj\Debug\net9.0\DemoQA.Service.csproj.AssemblyReference.cache
+D:\học test\demo\DemoQA.APITesting\DemoQA.Service\obj\Debug\net9.0\DemoQA.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\học test\demo\DemoQA.APITesting\DemoQA.Service\obj\Debug\net9.0\DemoQA.Service.AssemblyInfoInputs.cache
+D:\học test\demo\DemoQA.APITesting\DemoQA.Service\obj\Debug\net9.0\DemoQA.Service.AssemblyInfo.cs
+D:\học test\demo\DemoQA.APITesting\DemoQA.Service\obj\Debug\net9.0\DemoQA.Service.csproj.CoreCompileInputs.cache
+D:\học test\demo\DemoQA.APITesting\DemoQA.Service\obj\Debug\net9.0\DemoQA.S.67A7617A.Up2Date
+D:\học test\demo\DemoQA.APITesting\DemoQA.Service\obj\Debug\net9.0\DemoQA.Service.dll
+D:\học test\demo\DemoQA.APITesting\DemoQA.Service\obj\Debug\net9.0\refint\DemoQA.Service.dll
+D:\học test\demo\DemoQA.APITesting\DemoQA.Service\obj\Debug\net9.0\DemoQA.Service.pdb
+D:\học test\demo\DemoQA.APITesting\DemoQA.Service\obj\Debug\net9.0\ref\DemoQA.Service.dll
